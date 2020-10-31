@@ -1,1 +1,6 @@
+MP3
+https://ytapivmp3.com/api/button/{ftype}/{YouTube video ID}
 
+ftype = mp3 / {YouTube video ID} = Youtube Video ID
+
+<iframe src="https://ytapivmp3.com/api/button/mp3/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>
