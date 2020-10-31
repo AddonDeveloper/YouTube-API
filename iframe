@@ -1,6 +1,29 @@
 MP3
+
 https://ytapivmp3.com/api/button/{ftype}/{YouTube video ID}
 
 ftype = mp3 / {YouTube video ID} = Youtube Video ID
 
 <iframe src="https://ytapivmp3.com/api/button/mp3/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>
+
+--------
+
+MP4
+
+https://ytapivmp3.com/api/button/{ftype}/{YouTube video ID}
+
+ftype = videos / {YouTube video ID} = Youtube Video ID
+
+<iframe src="https://ytapivmp3.com/api/button/videos/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>
+
+-------
+
+Widget API:
+
+MP3 & MP4
+
+https://ytapivmp3.com/api/widget/{ftype}/{YouTube video ID}
+
+ftype = mp3 or mp4 / {YouTube video ID} = Youtube Video ID
+
+<iframe src="https://ytapivmp3.com/api/widget/mp3/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>
